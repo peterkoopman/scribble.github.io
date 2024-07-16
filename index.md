@@ -4,5 +4,5 @@
 </div>
 
 <div>
-  <p>I create websites for luddites who don't know how to do their own. I work in PHP.</p>
+  <p>I create websites for luddites who don't know how to do their own. I work in SilverStripe and React.</p>
 </div>
