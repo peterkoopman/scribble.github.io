@@ -6,3 +6,5 @@
 <div>
   <p>I create websites for luddites who don't know how to do their own. I work in SilverStripe and React.</p>
 </div>
+
+<div>If however, you would like to attempt it yourself, <a href="https://vimeo.com/showcase/silverstripe-nextjs-series">here are some videos</a></div>
